@@ -1,9 +1,9 @@
 {
-    "version": "1.7",
-    "download_url": "https://myoffice.accenture.com/:u:/g/personal/salvatore_di_stefano_accenture_com/IQDAQHTixKCoRoctmmuqHdwFAf1sazAlgxCRjvtyKLyVM7Y?e=ZMjzCk",
-    "release_date": "2026-09-18",
+    "version": "1.8",
+    "download_url": "https://myoffice.accenture.com/:u:/g/personal/salvatore_di_stefano_accenture_com/IQDc3_FkjkWoTL52ffEI_3sMAeu3q8llP7sie2n7xdBrGIw?e=2oycIP",
+    "release_date": "2026-09-24",
     "mandatory": true,
     "changes": [
-        "Aggiunto . al termine del foglio deskey"
+        "Modificate combobox Distributore"
     ]
 }
