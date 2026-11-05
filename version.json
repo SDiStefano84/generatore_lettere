@@ -1,9 +1,9 @@
 {
-    "version": "2.0",
-    "download_url": "https://myoffice.accenture.com/:u:/g/personal/salvatore_di_stefano_accenture_com/IQCYNjQCos9qRbBHsOCp0eaoAUO3VTjoq3jMKondjzHpU8Q?e=VCpfKT",
-    "release_date": "2026-11-02",
+    "version": "2.1",
+    "download_url": "https://myoffice.accenture.com/:f:/g/personal/salvatore_di_stefano_accenture_com/IgA-CE42DeQbR45OJjIdaFoyAeUXx0qRTbxoDzUkNGkIRq4?e=gGeLvQ",
+    "release_date": "2026-11-05",
     "mandatory": false,
     "changes": [
-        "Inserimento scroll bar laterale per utilizzo su schemo piccolo"
+        Aggiunto un punto nell'oggetto Lettera Spese frode"
     ]
 }
